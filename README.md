@@ -14,4 +14,13 @@ MCP stands for Model-Driven Control Platform. It is a framework or methodology u
 3. Simulate and validate your model.
 4. Deploy to your target hardware or environment.
 
+### GitHub MCP Information
+
+| Feature                | Description                                                                 |
+|------------------------|-----------------------------------------------------------------------------|
+| **Repository Name**    | MCP_TDP                                                                   |
+| **Branch Name**        | mcp_tdp2025                                                               |
+| **Purpose**            | Demonstrating MCP capabilities and GitHub integration                     |
+| **Owner**              | yuvalofek1                                                                |
+
 For more details, refer to the official documentation or community resources.
